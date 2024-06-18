@@ -20,9 +20,9 @@ In this program, you’ll learn:
 ## Certificates
 
 1. [Introduction to Back-End Development](https://coursera.org/share/00027ed001be1f246f26b42b1eebb17d)
-2. [Programming in Python](https://example.com)
-3. [Version Control](https://example.com)
-4. [Introduction to Databases for Back-End Development](https://example.com)
+2. [Programming in Python](https://coursera.org/share/caf3889f6cc5cd6a006e00f5a6bb87a1)
+3. [Version Control](https://coursera.org/share/92e1aeefcb0b0992be6d34ebcce87aa9)
+4. [Introduction to Databases for Back-End Development](https://coursera.org/share/8f91cdeb52e692021a4c0d7a82c77670)
 5. [Django Web Framework](https://example.com)
 6. [APIs](https://example.com)
 7. [The Full Stack](https://example.com)
