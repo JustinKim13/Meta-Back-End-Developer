@@ -23,7 +23,7 @@ In this program, you’ll learn:
 2. [Programming in Python](https://coursera.org/share/caf3889f6cc5cd6a006e00f5a6bb87a1)
 3. [Version Control](https://coursera.org/share/92e1aeefcb0b0992be6d34ebcce87aa9)
 4. [Introduction to Databases for Back-End Development](https://coursera.org/share/8f91cdeb52e692021a4c0d7a82c77670)
-5. [Django Web Framework](https://example.com)
+5. [Django Web Framework](https://coursera.org/share/c5d0d171ae664db8c1f662b0902c22eb)
 6. [APIs](https://example.com)
 7. [The Full Stack](https://example.com)
 8. [Back-End Developer Capstone](https://example.com)
