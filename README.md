@@ -24,7 +24,7 @@ In this program, you’ll learn:
 3. [Version Control](https://coursera.org/share/92e1aeefcb0b0992be6d34ebcce87aa9)
 4. [Introduction to Databases for Back-End Development](https://coursera.org/share/8f91cdeb52e692021a4c0d7a82c77670)
 5. [Django Web Framework](https://coursera.org/share/c5d0d171ae664db8c1f662b0902c22eb)
-6. [APIs](https://example.com)
+6. [APIs](https://coursera.org/share/afe7d4726e097c298e09c5fcbea56490)
 7. [The Full Stack](https://example.com)
 8. [Back-End Developer Capstone](https://example.com)
 9. [Coding Interview Preparation](https://example.com)
