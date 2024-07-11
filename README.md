@@ -27,7 +27,7 @@ In this program, you’ll learn:
 6. [APIs](https://coursera.org/share/afe7d4726e097c298e09c5fcbea56490)
 7. [The Full Stack](https://coursera.org/share/a58d43e09d4abba7cb3a11b7b6e595ed)
 8. [Back-End Developer Capstone](https://example.com)
-9. [Coding Interview Preparation](https://example.com)
+9. [Coding Interview Preparation](https://coursera.org/share/079d2183b08050ceaa9fbb7e1b86d285)
 
 ---
 
