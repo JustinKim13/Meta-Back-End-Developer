@@ -26,11 +26,11 @@ In this program, you’ll learn:
 5. [Django Web Framework](https://coursera.org/share/c5d0d171ae664db8c1f662b0902c22eb)
 6. [APIs](https://coursera.org/share/afe7d4726e097c298e09c5fcbea56490)
 7. [The Full Stack](https://coursera.org/share/a58d43e09d4abba7cb3a11b7b6e595ed)
-8. [Back-End Developer Capstone](https://example.com)
+8. [Back-End Developer Capstone](https://coursera.org/share/94b4a7cc639bcc3a2f3a6c3fa2b43061)
 9. [Coding Interview Preparation](https://coursera.org/share/079d2183b08050ceaa9fbb7e1b86d285)
 
 ---
 
 ## Back-End Specialization
 
-[Meta Back-End Developer Specialization](https://example.com)
+[Meta Back-End Developer Specialization](https://coursera.org/share/80331b92e45a189233a4bf21f4aaacb2)
